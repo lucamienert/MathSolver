@@ -1,0 +1,2 @@
+# MathSolver
+Solves equations
